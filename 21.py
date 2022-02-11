@@ -1,0 +1,10 @@
+# f=open("sid2.txt","w")
+# f.write("sid bhai bahut acche h")
+# f=open("sid2.txt","a")
+# a=f.write("sid bhai bahut acche h\n")
+# print(a)
+#handle read and write both
+f=open("sid2.txt","r+")
+print(f.read())
+f.write("thank u")
+f.close()
