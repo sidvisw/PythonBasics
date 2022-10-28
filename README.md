@@ -1,2 +1,2 @@
 # PythonBasics
-This ids a full **Python Basic Repository** for beginner to advanced level.
+This is a full **Python Basic Repository** for beginner to advanced level.
